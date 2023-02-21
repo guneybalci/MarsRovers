@@ -1,0 +1,14 @@
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\bin\Debug\netcoreapp3.1\MTConsole.exe
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\bin\Debug\netcoreapp3.1\MTConsole.deps.json
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\bin\Debug\netcoreapp3.1\MTConsole.runtimeconfig.json
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\bin\Debug\netcoreapp3.1\MTConsole.runtimeconfig.dev.json
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\bin\Debug\netcoreapp3.1\MTConsole.dll
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\bin\Debug\netcoreapp3.1\MTConsole.pdb
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.AssemblyInfoInputs.cache
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.AssemblyInfo.cs
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.dll
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.pdb
+C:\Users\guney.balci\source\repos\MTConsole\MTConsole\obj\Debug\netcoreapp3.1\MTConsole.genruntimeconfig.cache
